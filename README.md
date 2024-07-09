@@ -1,3 +1,6 @@
+
+ ![BADGE RECEBIDA](https://github.com/IvoJucaBezerra/literalura/blob/main/img/badge%20literalura.png)
+
 # CHALLENGE LITERALURA
 
 1 - INICIANDO PROJETO:
