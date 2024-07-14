@@ -1,5 +1,9 @@
+<div align="center">
 
- ![BADGE RECEBIDA](https://github.com/IvoJucaBezerra/literalura/blob/main/img/badge%20literalura.png)
+![Badge LiterAlura](https://github.com/IvoJucaBezerra/literalura/blob/main/img/badge%20literalura.png)
+
+</div>
+
 
 # CHALLENGE LITERALURA
 
